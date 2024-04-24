@@ -1,5 +1,5 @@
 <p align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/n9CddWX" data-context="false" ><a href="//imgur.com/a/n9CddWX"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  ![Banner Luis Guevara](https://github.com/LuisGuevara80/LuisGuevara80/assets/160192646/6e92330c-5800-4fdc-9e42-8e41ad7f1093)
 </p>
 <hr>
 <h1 align="center">Yo soy <a href="https://github.com/LuisGuevara80">Luis Guevara<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
