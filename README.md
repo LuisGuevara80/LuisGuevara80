@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/n9CddWX" height="230"/>
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/n9CddWX" data-context="false" ><a href="//imgur.com/a/n9CddWX"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 <hr>
 <h1 align="center">Yo soy <a href="https://github.com/LuisGuevara80">Luis Guevara<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
