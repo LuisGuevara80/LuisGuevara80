@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">Yo soy <a href="https://github.com/LuisGuevara80">Luis Guevara<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>Sobre mi! 😎</h1>
+<h1>Sobre mi! </h1>
 
 - 🏫: Soy estudiante de ingeniera en sistemas en la Universidad Mariano Gálvez de Guatemala.
 - 🔭: Estoy trabajando en pequeños proyectos por mi cuenta.
@@ -16,8 +16,5 @@
 <Br>
 <h1 align="center">Ponte en contacto! 📬</h1>
 <Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
-
 ------
   
