@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">I am <a href="https://github.com/LuisGuevara80">Luis Guevara<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>Sobre mi! </h1>
+<h1>About me! </h1>
 
  
 - 🏫: I am a systems engineering student at the Mariano Gálvez University in Guatemala.
