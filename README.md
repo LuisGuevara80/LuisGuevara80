@@ -15,7 +15,7 @@
   
 <hr>
 <Br>
-<h1 align="center">Ponte en contacto! 📬</h1>
+<h1 align="center">Get in touch! 📬</h1>
 <Br>
 ------
   
